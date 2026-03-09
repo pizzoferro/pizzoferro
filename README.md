@@ -1,16 +1,15 @@
-## Hi there 👋
+## Ciao! 👋 Sono Bonaventura (Enzo) Pizzoferro
 
-<!--
-**pizzoferro/pizzoferro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍🏫 **Docente di Matematica e Informatica | Appassionato di Web & Open Source c/o IAL FVG sede di Latisana (UD)**
 
-Here are some ideas to get you started:
+Benvenuto nel mio profilo GitHub! Sono un insegnante presso lo IAL FVG e mi dedico con passione alla divulgazione informatica, creando risorse utili sia per i miei studenti che per la community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ecco qualcosa in più su di me:
+
+- 🔭 **Attualmente lavoro su:** Nuovi materiali didattici per i miei corsi e progetti legati all'ecosistema Joomla!
+- 🌱 **Attualmente sto approfondendo:** AI con Gemini e Antigravity
+- 👯 **Mi piacerebbe collaborare a:** Progetti open source orientati all'educazione, template o estensioni web e iniziative di divulgazione.
+- 💬 **Chiedimi pure di:** Fondamenti di informatica, Microsoft Excel, CMS (Joomla!)
+- 📫 **Come contattarmi:** Puoi visitare il mio sito web pizzoferro.it
+- 📺 **I miei contenuti:** Dai un'occhiata al mio sito web
+
